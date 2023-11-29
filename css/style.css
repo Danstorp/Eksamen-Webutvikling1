@@ -109,7 +109,7 @@ h1 {
 
 }
 
-.skip-to-content {
+.skip-to-content {  /* Innspirasjon for denne er lagt ved i kilder i dokumentet vedlagt */
     position: fixed;
     bottom: 20px;
     right: 20px;
@@ -320,9 +320,6 @@ label, input, textarea {
         flex-direction: column;
     }
 
-    .kart {
-        max-width: 600px;
-    }
 
     .contactus {
         flex-wrap: wrap;
